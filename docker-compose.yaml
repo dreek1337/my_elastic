@@ -74,3 +74,4 @@ networks:
 
 volumes:
   elasticsearch:
+    driver: local
